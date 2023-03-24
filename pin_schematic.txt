@@ -1,0 +1,8 @@
+GND - GND
+VCC - 3.3V
+CLK - 2K2 + 13
+MOSI - 2K2 + 11
+RES - 2K2 + 8
+DC - 2K2 + 9
+BLK - 3.3V
+MISO - 13
